@@ -1,2 +1,2 @@
 # statmech-in-development
-Computational activities for in development for upper-level thermal and statistical physics
+In this repository are computational activities that I am developing for upper-level thermal and statistical physics course.
